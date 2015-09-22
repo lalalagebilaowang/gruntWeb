@@ -1,5 +1,6 @@
 # gd-drome
-
+这是用yeoman生成的项目
+yeoman: yo + grunt + bower
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.12.1.
 
